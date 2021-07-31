@@ -1,0 +1,5 @@
+name: newPlayerKit
+main: dev.kohendru.senzoiCustomPlugin.Main
+version: 1.0
+author: Koh Endru
+description: Custom plugin for my Minecraft Server (Java Edition 1.17.1)\n IP Address [51.81.61.44:25612]

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="senzoiCustomPlugin:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="senzoiCustomPlugin.jar">
+      <element id="module-output" name="senzoiCustomPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.17.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
